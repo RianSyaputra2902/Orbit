@@ -1,2 +1,6 @@
-
+tensorflow
 streamlit
+numpy
+pandas
+altair
+json
